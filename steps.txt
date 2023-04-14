@@ -1,0 +1,8 @@
+1. create structure with
+
+
+2. src folder:
+            1. component
+                    1. data_ingestion.py(data read)
+                    2. data_transformation.py(Feature Eng.)
+                    3. model_trainer.py(Training)      
